@@ -1,0 +1,43 @@
+.flex{
+    display: flex;
+}
+.space-around{
+    justify-content: space-around;
+}
+.no-margin{
+    margin: 0;
+}
+.no-padding{
+    padding: 0 0 0 0;
+}
+.no-decoration{
+    list-style: none;
+}
+.vw10{
+    width: 10vw;
+}
+.vw20{
+    width: 20vw;
+}
+.vw30{
+    width: 30vw;
+}
+.vw40{
+    width: 40vw;
+}
+.vw50{
+    width: 50vw;
+}
+.vw60{
+    width: 60vw;
+}
+.vw70{
+    width: 70vw;
+}
+.vw80{
+    width: 80vw;
+}
+.vw90{
+    width: 90vw;
+}
+

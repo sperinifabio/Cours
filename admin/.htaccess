@@ -1,0 +1,4 @@
+AuthName "Zone protégée - Fab"
+AuthType Basic
+AuthUserFile "/home/exmachinef/www/je-code/mdsb1/fsperini/admin/.htpasswd"
+Require valid-user
